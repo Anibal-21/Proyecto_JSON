@@ -1,9 +1,8 @@
 # Proyecto_JSON
-PRoyecto 2º Evaluación JSON
+Proyecto 2º Evaluación JSON
 
-# Ejercicios JSON
-* Ejercicio 1: Lista de provincias.
-* Ejercicio 2: ¿Cuantas parroquias hay en total?
-* Ejercicio 3: Dime una provincia y muestrame su información.
-* Ejercicio 4: Dime el nombre de una parroquia, y dime a que canton perteneze la parroquia.
-* Ejercicio 5: Te pido un numero de parroquias y tienes que mostrarme que provincias tiene ese numero de parroquias.
+* **Listar información:** Muestra cuantas armas contiene el juego.
+* **Contar información:** Muestra la clasificación de armas y cuantas pertenecen a cada tipo.
+* **Buscar o filtrar información:** Si se introduce un tipo de armas, se muestran las que pertenecen a esa categoría.
+* **Buscar información relacionada:** Si se introduce el nombre de un arma, se muestra sus especificaciones.
+* **Ejercicio libre:** Muestra el arma que permite al jugador ir más rápido y el arma que más daño resta.
